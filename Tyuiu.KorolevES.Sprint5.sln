@@ -5,27 +5,29 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{D411E41B-4FD7-4935-B561-0F2CABDF1911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task0.V10", "Tyuiu.KorolevES.Sprint5.Task0.V10\Tyuiu.KorolevES.Sprint5.Task0.V10.csproj", "{0DC188A9-C1D5-4834-B9D1-8CFC9AC7966B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task0.V10", "Tyuiu.KorolevES.Sprint5.Task0.V10\Tyuiu.KorolevES.Sprint5.Task0.V10.csproj", "{0DC188A9-C1D5-4834-B9D1-8CFC9AC7966B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task0.V10.Lib", "Tyuiu.KorolevES.Sprint5.Task0.V10.Lib\Tyuiu.KorolevES.Sprint5.Task0.V10.Lib.csproj", "{AA57487D-17BB-4257-9F0F-3CA863F38EFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task0.V10.Lib", "Tyuiu.KorolevES.Sprint5.Task0.V10.Lib\Tyuiu.KorolevES.Sprint5.Task0.V10.Lib.csproj", "{AA57487D-17BB-4257-9F0F-3CA863F38EFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task0.V10.Test", "Tyuiu.KorolevES.Sprint5.Task0.V10.Test\Tyuiu.KorolevES.Sprint5.Task0.V10.Test.csproj", "{5D5C4A83-91AC-44C2-AB35-E2F441FDCB84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task0.V10.Test", "Tyuiu.KorolevES.Sprint5.Task0.V10.Test\Tyuiu.KorolevES.Sprint5.Task0.V10.Test.csproj", "{5D5C4A83-91AC-44C2-AB35-E2F441FDCB84}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{6EF8069C-1C4D-4B8E-B617-D2F829EF5210}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task1.V3", "Tyuiu.KorolevES.Sprint5.Task1.V3\Tyuiu.KorolevES.Sprint5.Task1.V3.csproj", "{C2E888CD-534E-449C-8D8D-E615EA96F71B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task1.V3", "Tyuiu.KorolevES.Sprint5.Task1.V3\Tyuiu.KorolevES.Sprint5.Task1.V3.csproj", "{C2E888CD-534E-449C-8D8D-E615EA96F71B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task1.V3.Lib", "Tyuiu.KorolevES.Sprint5.Task1.V3.Lib\Tyuiu.KorolevES.Sprint5.Task1.V3.Lib.csproj", "{7CEFF3E2-5CAB-4FDA-BC98-07E694D38F0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task1.V3.Lib", "Tyuiu.KorolevES.Sprint5.Task1.V3.Lib\Tyuiu.KorolevES.Sprint5.Task1.V3.Lib.csproj", "{7CEFF3E2-5CAB-4FDA-BC98-07E694D38F0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task1.V3.Test", "Tyuiu.KorolevES.Sprint5.Task1.V3.Test\Tyuiu.KorolevES.Sprint5.Task1.V3.Test.csproj", "{0D183F77-224B-4075-AEF3-62BB01557536}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task1.V3.Test", "Tyuiu.KorolevES.Sprint5.Task1.V3.Test\Tyuiu.KorolevES.Sprint5.Task1.V3.Test.csproj", "{0D183F77-224B-4075-AEF3-62BB01557536}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{AAE14E17-04BA-4D66-A480-A72FFB2EFA80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task2.V11", "Tyuiu.KorolevES.Sprint5.Task2.V11\Tyuiu.KorolevES.Sprint5.Task2.V11.csproj", "{B2DE7DEC-97D9-488E-A77E-1F1AA34EF625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task2.V11", "Tyuiu.KorolevES.Sprint5.Task2.V11\Tyuiu.KorolevES.Sprint5.Task2.V11.csproj", "{B2DE7DEC-97D9-488E-A77E-1F1AA34EF625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task2.V11.Lib", "Tyuiu.KorolevES.Sprint5.Task2.V11.Lib\Tyuiu.KorolevES.Sprint5.Task2.V11.Lib.csproj", "{84D0BF12-7523-43A7-8C68-209DF87C9A5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task2.V11.Lib", "Tyuiu.KorolevES.Sprint5.Task2.V11.Lib\Tyuiu.KorolevES.Sprint5.Task2.V11.Lib.csproj", "{84D0BF12-7523-43A7-8C68-209DF87C9A5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KorolevES.Sprint5.Task2.V11.Test", "Tyuiu.KorolevES.Sprint5.Task2.V11.Test\Tyuiu.KorolevES.Sprint5.Task2.V11.Test.csproj", "{3BFCB4A6-4F1F-4DE4-A8F1-CCDA4E87B342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.KorolevES.Sprint5.Task2.V11.Test", "Tyuiu.KorolevES.Sprint5.Task2.V11.Test\Tyuiu.KorolevES.Sprint5.Task2.V11.Test.csproj", "{3BFCB4A6-4F1F-4DE4-A8F1-CCDA4E87B342}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{27BCC123-0BCC-40D2-9B4E-D10292F67D3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

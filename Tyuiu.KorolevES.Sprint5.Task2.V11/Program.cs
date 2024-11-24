@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using Tyuiu.KorolevES.Sprint5.Task2.V11.Lib;
+﻿using Tyuiu.KorolevES.Sprint5.Task2.V11.Lib;
 namespace Tyuiu.KorolevES.Sprint5.Task2.V11
 {
     internal class Program
