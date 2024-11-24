@@ -9,9 +9,7 @@ namespace Tyuiu.KorolevES.Sprint5.Task2.V11.Test
         [TestMethod]
         public void TestMethod1()
         {
-            int[,] matrix = { { 4, 9, 3 }, { 5, 8, 8 }, { 5, 7, 5 } };
-            DataService dataService = new DataService();
-            string path = dataService.SaveToFileTextData(matrix);
+            string path = @"C:\Users\Admin\AppData\Local\Temp\OutPutFileTask2.csv";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;
