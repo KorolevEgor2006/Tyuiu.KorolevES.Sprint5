@@ -7,8 +7,7 @@ namespace Tyuiu.KorolevES.Sprint5.Task0.V10.Test
         [TestMethod]
         public void TestMethod1()
         {
-            DataService dataService = new DataService();
-            string path = dataService.SaveToFileTextData(1);
+            string path = @"C:\Users\Admin\AppData\Local\Temp\OutPutFileTask0.txt";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;
