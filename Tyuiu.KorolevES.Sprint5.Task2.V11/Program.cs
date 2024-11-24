@@ -33,7 +33,6 @@ namespace Tyuiu.KorolevES.Sprint5.Task2.V11
                     Console.Write("Элемент " + i +" " + j+":");
                     matrix[i,j]= Convert.ToInt32(Console.ReadLine());
                 }
-                Console.WriteLine();
             }
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
