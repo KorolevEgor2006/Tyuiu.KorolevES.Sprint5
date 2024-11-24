@@ -29,8 +29,6 @@ namespace Tyuiu.KorolevES.Sprint5.Task0.V10
             string res = ds.SaveToFileTextData(x);
             Console.WriteLine("Файл: " + res);
             Console.WriteLine("Создан!");
-            Console.WriteLine("Данные из файла:");
-            Console.WriteLine(File.ReadAllText(res));
             Console.ReadKey();
         }
     }
