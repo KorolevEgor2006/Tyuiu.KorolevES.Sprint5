@@ -11,7 +11,7 @@ namespace Tyuiu.KorolevES.Sprint5.Task1.V3.Test
             string path = dataService.SaveToFileTextData(-5,5);
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
-            bool wait = true;sts);
+            bool wait = true;
             Assert.AreEqual(wait, fileExists);
         }
     }
