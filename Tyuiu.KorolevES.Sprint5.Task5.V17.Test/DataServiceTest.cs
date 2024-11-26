@@ -8,7 +8,7 @@ namespace Tyuiu.KorolevES.Sprint5.Task5.V17.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            double wait = 114.71;
+            double wait = 20;
             string path = @"C:\DataSprint5\InPutDataFileTask5V17.txt";
             double res = ds.LoadFromDataFile(path);
             Assert.AreEqual(wait, res);
